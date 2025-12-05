@@ -11,5 +11,6 @@ int max(int x, int y) {
 
 int main(){
     cout << "Hello World!" << endl;
+    cout << "Hello from Developer B" << endl;
     return 0;
 }
